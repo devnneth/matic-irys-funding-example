@@ -1,0 +1,16 @@
+{
+  "name": "matic-irys-funding-example",
+  "version": "1.0.0",
+  "description": "This program is a proof of concept for funding Matic to Irys.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Kenneth Heo (devnneth@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "@irys/sdk": "^0.1.1",
+    "ethers": "^6.9.0",
+    "web3": "^4.3.0"
+  }
+}
